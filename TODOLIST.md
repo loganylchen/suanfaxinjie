@@ -1,0 +1,20 @@
+- [ ] 最小ID生成
+    - [ ] 原始方法，时间复杂度（$O(n^2)$）
+        - [x] python版
+        - [ ] julia版
+    - [ ] 改进一
+        - [x] python版
+        - [ ] julia版
+    - [ ] 改进二
+        - [ ] python版
+        - [ ] julia版
+- [ ] 丑数
+    - [ ] 原始方法，时间复杂度
+        - [ ] python版
+        - [ ] julia版
+    - [ ] 改进一
+        - [ ] python版
+        - [ ] julia版
+    - [ ] 改进二
+        - [ ] python版
+        - [ ] julia版
