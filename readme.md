@@ -18,8 +18,8 @@
 ## 目录
 
 1. 前言：最小可用ID，丑数
-    - [python notebook](python/chapter_0.ipynb)
-    - [julia notebook](julia/chapter_0.ipynb)
+    - [python notebook](python/Part_I_chapter_1.ipynb)
+    - [julia notebook](julia/Part_I_chapter_1.ipynb)
 
 ## 一般记录
 
